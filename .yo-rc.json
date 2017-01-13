@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "12 Factor Revisited",
+    "packageVersion": "0.0.0",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aetherical",
+    "githubRepository": "12factor-revisited"
+  }
+}
