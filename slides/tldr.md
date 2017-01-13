@@ -1,7 +1,7 @@
 ##  TL;DR
 ----
 > Loosely coupled services, communicating via IP ports,
-> centralized logging, 
+> centralized logging, eliminate humans,
 > and all code in a repository FTW!
 
 ### Don't forget: <!-- .element: class="fragment" -->
