@@ -1,4 +1,4 @@
-## VI. Processes
+## VI. Processes (Ops)
 ----
 
 * Services are discreet
