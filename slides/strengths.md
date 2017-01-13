@@ -1,8 +1,8 @@
 ##  Strengths & Weaknesses
 
-### Each Factor has *good* and *bad* points
-### We'll examine each
+### Like anything else, each Factor has *good* and *bad* points
 
+#### But they really, really, want to be good!<!-- .element: class="fragment" -->
 
 note:
 	I don't think it's perfect, but it's definitely

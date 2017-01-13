@@ -1,4 +1,4 @@
-##  Why
+##  Why 12 Factor?
 ----
 
 * Methodology
