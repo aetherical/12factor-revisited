@@ -3,6 +3,6 @@
 ## for Application Development
 ## And Ops, too!
 https://git.io/vM2Yf
-#### Matt Williams / matt@matthewkwilliams.com / @matt_k_williams
+#### Matt Williams / matt@matthewkwilliams.com / @matt_k_williams / http://matthewkwilliams.com
 
 
