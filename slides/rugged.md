@@ -2,7 +2,7 @@
 
 * An application never relies on implicit existance of system packages
 * All dependencies are declared
-
+* Tools are used to resolve and/or install dependencies
 note:
     No Surprises!
 
